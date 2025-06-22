@@ -1,0 +1,22 @@
+{
+    "window_selection": {
+        "enabled": true,
+        "default_window": null
+    },
+    "image_settings": {
+        "initial_image_path": "",
+        "image_match_threshold": 0.8
+    },
+    "control_settings": {
+        "click_interval": 1.0,
+        "mouse_button": "left"
+    },
+    "hotkey_settings": {
+        "start_pause_hotkey": "F5",
+        "stop_hotkey": "F6"
+    },
+    "logging": {
+        "log_level": "INFO",
+        "log_file": "app.log"
+    }
+}
